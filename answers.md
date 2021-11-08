@@ -93,21 +93,21 @@ It is part of the _W3C Multimodal Interaction Activity initiative_. [Wikipedia](
 ![A fishy fish](https://havetstore.blob.core.windows.net/bilder/870/2052.jpg)
 
 ## Exercise 4
->public class Person
-{
-  private string name;
-  private int age;
-  public Person(string initialName)
-  {
-    this.age = 0;
-    this.name = initialName;
-  }
-  public void PrintPerson()
-  {
-    Console.WriteLine(this.name + ", age " + this.age + " years");
-  }
-  public void GrowOlder()
-  {
-    this.age = this.age + 1;
-  }
-}
+>public class Person  
+{  
+  private string name;  
+  private int age;  
+  public Person(string initialName)  
+  {  
+    this.age = 0;  
+    this.name = initialName;  
+  }  
+  public void PrintPerson()  
+  {  
+    Console.WriteLine(this.name + ", age " + this.age + " years");  
+  }  
+  public void GrowOlder()  
+  {  
+    this.age = this.age + 1;  
+  }  
+}  
