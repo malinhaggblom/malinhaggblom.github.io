@@ -75,7 +75,7 @@ To doubt they were kneeling then.
  If you _do_ make a mess, use a towel to clean it up!
 
 2. Pour a gallon of milk into the bowl.  
- Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+ Basically, take the same guidance as above: don't be messy, but if you are, clean it up!<
 
 ## Exercise 2
 ###FpML Financial products Markup Language
