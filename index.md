@@ -75,19 +75,19 @@ To doubt they were kneeling then.
  If you _do_ make a mess, use a towel to clean it up!
 
 2. Pour a gallon of milk into the bowl.  
- Basically, take the same guidance as above: don't be messy, but if you are, clean it up!<
+ Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
 
 ## Exercise 2
-###FpML Financial products Markup Language
-**FpML (Financial products Markup Language)** is a business information exchange standard based on Extensible Markup Language (XML) that enables business-to-business over-the-counter (OTC) financial derivative transactions online by following W3C standards.
-The _standard_ is managed by International Swaps and Derivatives Association (ISDA) on behalf of a community of investment banks that make up the OTC derivatives industry. All categories of privately negotiated derivatives will eventually be included within the standard.
-FpML is distinct from similar financial standards such as SWIFT and FIX in scope because it provides no network or specification of a transport mechanism. [Wikipedia](https://en.wikipedia.org/wiki/FpML)
-###InkML
-**InkML** is an XML-based markup language to describe "ink" data input with an electronic pen or stylus. The recommended specification was published by the World Wide Web Consortium (W3C) in September 2011.
+###FpML Financial products Markup Language  
+**FpML (Financial products Markup Language)** is a business information exchange standard based on Extensible Markup Language (XML) that enables business-to-business over-the-counter (OTC) financial derivative transactions online by following W3C standards.  
+The _standard_ is managed by International Swaps and Derivatives Association (ISDA) on behalf of a community of investment banks that make up the OTC derivatives industry. All categories of privately negotiated derivatives will eventually be included within the standard.  
+FpML is distinct from similar financial standards such as SWIFT and FIX in scope because it provides no network or specification of a transport mechanism. [Wikipedia](https://en.wikipedia.org/wiki/FpML)  
+###InkML  
+**InkML** is an XML-based markup language to describe "ink" data input with an electronic pen or stylus. The recommended specification was published by the World Wide Web Consortium (W3C) in September 2011.  
 It is part of the _W3C Multimodal Interaction Activity initiative_. [Wikipedia](https://en.wikipedia.org/wiki/InkML)
 
 ## Exercise 3
-[Youtube video](https://www.youtube.com/shorts/_Hn0_qEnvGI)
+[Youtube video](https://www.youtube.com/shorts/_Hn0_qEnvGI)  
 ![A fishy fish](https://havetstore.blob.core.windows.net/bilder/870/2052.jpg)
 
 ## Exercise 4
