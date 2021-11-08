@@ -1,3 +1,5 @@
+**The answers to the exercises are also find on this page:**
+
 ## Exercise 1
 Writing in Markdown is _not_ that hard!
 I **will** complete these lessons!
