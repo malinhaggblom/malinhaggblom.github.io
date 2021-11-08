@@ -32,23 +32,25 @@ Well, do I have [the website for you][another fun place]!
 
 I read this interesting quote the other day:
 
-> "Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"<
+> "Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"  
 
 >Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo...
 >His father told him that story: his father looked at him through a glass: he had a hairy face.
 >He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt.
->He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: _VIVE L'IRLANDE_!<
+>He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: _VIVE L'IRLANDE_!  
 
 * Flour
 * Cheese
-* Tomatoes
+* Tomatoes  
 
 1. Cut the cheese
 2. Slice the tomatoes
-3. Rub the tomatoes in flour
+3. Rub the tomatoes in flour  
+
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
-* Dahlia (_Coreopsideae Dahlia_)
+* Dahlia (_Coreopsideae Dahlia_)  
+
 * Calculus
  * A professor
    * Has no hair
@@ -56,7 +58,7 @@ I read this interesting quote the other day:
 * Castafiore
  * An opera singer
    * Has white hair
-   * Is possibly mentally unwell  
+   * Is possibly mentally unwell    
 
 1. Cut the cheese
   
@@ -79,11 +81,11 @@ To doubt they were kneeling then.
  Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
 
 ## Exercise 2
-###FpML Financial products Markup Language  
+### FpML Financial products Markup Language  
 **FpML (Financial products Markup Language)** is a business information exchange standard based on Extensible Markup Language (XML) that enables business-to-business over-the-counter (OTC) financial derivative transactions online by following W3C standards.  
 The _standard_ is managed by International Swaps and Derivatives Association (ISDA) on behalf of a community of investment banks that make up the OTC derivatives industry. All categories of privately negotiated derivatives will eventually be included within the standard.  
 FpML is distinct from similar financial standards such as SWIFT and FIX in scope because it provides no network or specification of a transport mechanism. [Wikipedia](https://en.wikipedia.org/wiki/FpML)  
-###InkML  
+### InkML  
 **InkML** is an XML-based markup language to describe "ink" data input with an electronic pen or stylus. The recommended specification was published by the World Wide Web Consortium (W3C) in September 2011.  
 It is part of the _W3C Multimodal Interaction Activity initiative_. [Wikipedia](https://en.wikipedia.org/wiki/InkML)
 
