@@ -1,3 +1,7 @@
+layout: page
+title: "ANSWERS TO THE QUESTIONS"
+permalink: /https://malinhaggblom.github.io/answers/
+
 **The answers to the exercises are also find on this page:**
 
 ## Exercise 1
